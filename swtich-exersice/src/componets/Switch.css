@@ -1,0 +1,12 @@
+.Switch h1 {
+    color: green;
+}
+
+.Switch {
+    border: green solid 5px;
+    width: 200px;
+}
+
+.blue {
+    background-color: blue;
+}
